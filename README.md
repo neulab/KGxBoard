@@ -5,7 +5,7 @@ Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Comple
 
 * Video demo: https://vimeo.com/735226047
 * Demo website: https://explainaboard.inspiredco.ai/
-* Tutorial for the KGxBoard's API: coming soon
+* Tutorial for the KGxBoard's API: https://github.com/rufex2001/libkge-with-kgxboard-support
 * PyKEEN API for KGxBoard: coming soon
 * LibKGE API for KGxBoard: coming soon
 
