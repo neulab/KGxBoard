@@ -10,7 +10,7 @@ Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Comple
 * LibKGE API for KGxBoard: https://github.com/rufex2001/libkge-with-kgxboard-support
 * PyKEEN API for KGxBoard: coming soon
 
-# Tutodial for the web interface
+# Tutorial for the web interface
 
 1. Go to https://explainaboard.inspiredco.ai/
 2. Click on Systems on the right side
