@@ -13,6 +13,6 @@ Explainable and Interactive Leaderboard for Evaluation of Knowledge Graph Comple
 # Tutorial for the web interface
 
 1. Go to https://explainaboard.inspiredco.ai/
-2. Click on Systems on the right side
+2. Click on Systems on the left side
 3. From the tasks drop-down menu, select kg-link-tail-prediction
 4. Click one (or several) of the models and click on the button "Analysis"
